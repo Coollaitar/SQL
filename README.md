@@ -27,6 +27,6 @@
 | - Not Great with Complex Relationships |
 | - Horizontally Scalable (Does not require powerful computer as compared to SQL) |
 
-| <p align="center"> SQL </p> |
+| <p align="center"> [SQL] (https://github.com/Coollaitar/SQL/blob/main/SQL%20main/sql.md)</p> |
 | ------ |
 | - 1st Step : CRUD (Create,Read,Update,Destroy) |
