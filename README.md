@@ -30,3 +30,4 @@
 | <p align="center"> [SQL](https://github.com/Coollaitar/SQL/blob/main/SQL%20main/sql.md) </p> |
 | ------ |
 | - 1st Step : CRUD (Create,Read,Update,Destroy) |
+| - Relationships In SQL |
