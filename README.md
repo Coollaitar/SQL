@@ -7,6 +7,8 @@
 | - We use `My SQL` software for SQL (Structured Query Language) |
 | - We use `Mongo DB` software for NoSQL (Not Only Strucutred Query Language) |
 
+| - Link For Better Understanding : https://www.javatpoint.com/mysql-vs-sql |
+
 | <p align="center"> SQL </p> |
 | ------ |
 | - More Mature (Old but Structured) |
