@@ -20,3 +20,19 @@ PRIMARY KEY (id)
 ```
 SELECT * FROM products WHERE name="Pencil"
 ```
+## **4) Update Database (UPDATE)** :
+```
+UPDATE products
+SET price = 0.8
+WHERE id = 2
+```
+## **5) Alter (Addtion or any other changes)** :
+```
+ALTER products
+ADD stock INT
+```
+## **6) Delete** :
+```
+DELETE FROM products
+WHERE id = 2
+```
