@@ -9,6 +9,8 @@
 
 | - Link For Better Understanding : https://www.javatpoint.com/mysql-vs-sql |
 
+| - Difference Between SQL and MySQL |
+
 | <p align="center"> SQL </p> |
 | ------ |
 | - More Mature (Old but Structured) |
@@ -24,3 +26,7 @@
 | - More Flexible to Changes |
 | - Not Great with Complex Relationships |
 | - Horizontally Scalable (Does not require powerful computer as compared to SQL) |
+
+| <p align="center"> SQL </p> |
+| ------ |
+| - 1st Step : CRUD (Create,Read,Update,Destroy) |
