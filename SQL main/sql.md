@@ -38,4 +38,7 @@ WHERE id = 2
 ```
 ## **7) Relationships** :
 ```
-
+SELECT orders.order_number , products.name
+FROM orders
+INNER JOIN products ON orders.customer_id = customers.id
+```
