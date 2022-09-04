@@ -16,7 +16,7 @@ PRIMARY KEY (id)
 )
 ```
 
-## ** 3) Read Data from Database (READ)** :
+## **3) Read Data from Database (READ)** :
 ```
 SELECT * FROM products WHERE name="Pencil"
 ```
