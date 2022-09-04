@@ -36,3 +36,6 @@ ADD stock INT
 DELETE FROM products
 WHERE id = 2
 ```
+## **7) Relationships** :
+```
+
