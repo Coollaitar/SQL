@@ -31,3 +31,4 @@
 | ------ |
 | - 1st Step : CRUD (Create,Read,Update,Destroy) |
 | - Relationships In SQL |
+| - A Foreign Key is used to link two tables or form *relationships* between tables |
